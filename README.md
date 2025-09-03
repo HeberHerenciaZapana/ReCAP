@@ -75,13 +75,3 @@ For updates, contributions, or early access requests, please contact:
 ---
 
 © 2025 Collins Aerospace. All rights reserved.
-Notes:
-Replace placeholders like [Insert Web Address Here] and [Insert Contact Email or Submission Link] with the actual URL and contact.
-
-This format uses standard GitHub markdown and will render cleanly on GitHub Pages, README files, or GitHub repositories.
-
-Let me know if you'd like this turned into a GitHub Pages website or if you want badges (e.g., for status, license, etc.) added to the top.
-
-
-
-Ask ChatGPT
