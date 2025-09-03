@@ -7,11 +7,8 @@
 
 ## 🔍 Overview
 
-The **Repository of Cognitive Attack Patterns (ReCAP)** is a public-facing resource developed by **Collins** as part of the **Modeling and Analysis Toolkit for Realizable Intrinsic Cognitive Security (MATRICS)** under DARPA’s **Intrinsic Cognitive Security (ICS)** program.
+The **Repository of Cognitive Attack Patterns (ReCAP)** is a publicly accessible resource developed by **Collins Aerospace** as part of the **Modeling and Analysis Toolkit for Realizable Intrinsic Cognitive Security (MATRICS)**, under DARPA’s **Intrinsic Cognitive Security (ICS)** program. ReCAP serves as an online knowledge base designed to enable the structured documentation, analysis, and dissemination of **cognitive attacks**, **vulnerabilities**, and **mitigation strategies** specific to **extended reality (XR)** systems.
 
-ReCAP is a public online knowledge base designed to facilitate the
-structured documentation, exploration, and sharing of XR-specific
-cognitive attacks, vulnerabilities, and mitigation strategies.
 
 ![Screenshot](images/logo_2.png)
 ---
