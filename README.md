@@ -38,8 +38,8 @@ The initial release will feature:
 - Reference links to supporting research and documentation
 - Collaboration tools for the research and practitioner community
 
-**Expected Availability:**  
-🌐 [Insert Web Address Here]
+**Availability:**  The website will be available soon at the following URL:
+🌐 [Web Address]
 
 ---
 
