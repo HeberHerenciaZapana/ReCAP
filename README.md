@@ -10,6 +10,7 @@
 The **Repository of Cognitive Attack Patterns (ReCAP)** is a public-facing resource developed by **Collins** as part of the **Modeling and Analysis Toolkit for Realizable Intrinsic Cognitive Security (MATRICS)** under DARPA’s **Intrinsic Cognitive Security (ICS)** program.
 
 ReCAP provides a comprehensive database for immersive environments by storing not only technical vulnerabilities but also cognitive attacks—scenarios in which adversaries exploit human perceptual and cognitive limitations—as well as corresponding defenses designed to prevent or mitigate such attacks, thereby supporting the development of cognitive security guarantees.
+
 ![Screenshot](images/logo_2.png)
 ---
 
