@@ -1,12 +1,87 @@
-# ReCAP - Repository of Cognitive Attack Patterns
 
-## Introduction
-Whether designing massive enterprise IT infrastructure or embedded cyber-physical systems, the cybersecurity assessment is a critical activity that often occurs multiple times during product development. Assessments typically involve iterating over a list of known vulnerabilities or attacks and determining if they are applicable to the current system. Effective protection against cyber-attacks in mixed-reality (MR) systems requires an understanding of how an adversary may exploit a cognitive vulnerability. As part of the Modeling and Analysis Toolkit for Realizable Intrinsic Cognitive Security (MATRICS) effort on the DARPA Intrinsic Cognitive Security (ICS) program, Collins is building a public-facing Repository of Cognitive Attack Patterns (ReCAP) that enumerate cognitive attacks and corresponding mitigations to facilitate the elicitation of cognitive guarantees.  
+# 🧠 Repository of Cognitive Attack Patterns (ReCAP)
+
+**Advancing Cognitive Security in Extended Reality (XR) Systems**
+
+---
+
+## 🔍 Overview
+
+The **Repository of Cognitive Attack Patterns (ReCAP)** is a public-facing resource developed by **Collins** as part of the **Modeling and Analysis Toolkit for Realizable Intrinsic Cognitive Security (MATRICS)** under DARPA’s **Intrinsic Cognitive Security (ICS)** program.
+
+ReCAP supports comprehensive **cybersecurity assessments** in immersive environments by addressing not only technical vulnerabilities but also **cognitive attack vectors**—scenarios where adversaries exploit human perceptual and cognitive limitations.
+
 ![Screenshot](images/logo_2.png)
-ReCAP is a public-facing resource designed to enumerate cognitive attack patterns along with corresponding mitigations, enabling the development of cognitive assurance strategies. It provides structured and relevant information to support comprehensive analysis of cognitive attacks in extended reality (XR) environments. By mapping the relationships among attacks, vulnerabilities, defenses, and assurance arguments, ReCAP serves as a foundational tool for advancing research and practice in cognitive security within immersive systems.
+---
 
-Validation efforts for both the attack classification schema and the user interface are currently underway. This includes the integration of published XR cognitive attack patterns and the incorporation of newly identified patterns emerging from ongoing research within the ICS program.
+## 🛡️ Purpose and Capabilities
 
-To enhance the accuracy, completeness, and practical value of ReCAP, contributions from the broader research community are strongly encouraged. Community engagement will be vital in refining the taxonomy, enriching the repository with real-world examples, and building consensus on how cognitive security should be modeled and analyzed in XR contexts.
+ReCAP enables researchers, system developers, and security analysts to:
 
-Furthermore, ReCAP prioritizes transparency and traceability by maintaining reference metadata, including the sources of supporting evidence such as academic publications and technical documentation
+- Identify and analyze **cognitive attack patterns** in XR and mixed-reality systems.
+- Explore relationships among **attacks**, **vulnerabilities**, **mitigations**, and **assurance arguments**.
+- Support the elicitation of **cognitive security guarantees** during system design and evaluation.
+- Contribute to a structured, evolving **taxonomy of cognitive threats**.
+
+The repository includes both published cognitive attack patterns and new patterns discovered through ongoing research in immersive technologies.
+
+---
+
+## 🚧 Current Status
+
+ReCAP is **currently under construction and testing**.
+
+The initial release will feature:
+
+- A validated **cognitive attack classification schema**
+- An **interactive user interface** for browsing and contributing attack patterns
+- Reference links to supporting research and documentation
+- Collaboration tools for the research and practitioner community
+
+**Expected Availability:**  
+🌐 [Insert Web Address Here]
+
+---
+
+## 🤝 Community Involvement
+
+Contributions from the broader research community are highly encouraged to ensure ReCAP’s accuracy, relevance, and utility.
+
+Community participation will help:
+
+- Refine and expand the cognitive attack taxonomy
+- Populate the knowledge base with **real-world case studies**
+- Foster consensus on representing and analyzing **cognitive security** in XR systems
+
+---
+
+## 🔎 Transparency and Traceability
+
+ReCAP emphasizes **evidence-based security** through:
+
+- Clear reference links to **academic publications**, **technical reports**, and **empirical studies**
+- Documentation of the source and rationale behind each attack pattern and mitigation
+
+This ensures **traceability**, **transparency**, and **reproducibility** in the development of cognitive security frameworks.
+
+---
+
+## 📬 Stay Informed
+
+For updates, contributions, or early access requests, please contact:
+
+📧 [Insert Contact Email or Submission Link]
+
+---
+
+© 2025 Collins Aerospace. All rights reserved.
+Notes:
+Replace placeholders like [Insert Web Address Here] and [Insert Contact Email or Submission Link] with the actual URL and contact.
+
+This format uses standard GitHub markdown and will render cleanly on GitHub Pages, README files, or GitHub repositories.
+
+Let me know if you'd like this turned into a GitHub Pages website or if you want badges (e.g., for status, license, etc.) added to the top.
+
+
+
+Ask ChatGPT
